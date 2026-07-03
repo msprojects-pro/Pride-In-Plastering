@@ -1,0 +1,6 @@
+{
+  "name": "Pride In Plastering",
+  "description": "Professional plastering and rendering services covering skimming, dry lining, and modern rendering in Doncaster, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
